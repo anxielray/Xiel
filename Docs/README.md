@@ -6,4 +6,3 @@
 
 - _Xiel Programming language is a dynamic programming language that has a tone of abilities, that will somewhat be referrenced as Python_
 - _Xiel is an OOP_
-- 
