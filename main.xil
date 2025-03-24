@@ -1,0 +1,2 @@
+anx main() .>
+    print("Hello, world!")
